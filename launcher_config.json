@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "PindaOT",
-	"newClientUrl" : "https://github.com/Iaakult/PindaOT-Launcher/releases/download/v0.1/PindaOT.zip",
+	"newClientUrl" : "https://github.com/Iaakult/PindaOT-Launcher/releases/download/v2.0/PindaOT.rar",
 	"clientExecutable": "client.exe"
 }
